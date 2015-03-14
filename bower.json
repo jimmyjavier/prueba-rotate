@@ -1,0 +1,22 @@
+{
+  "name": "prueba-rotate",
+  "version": "0.0.1",
+  "authors": [
+    "Jimmy Javier <jimmyjavier@hotmail.fr>"
+  ],
+  "description": "Una librería que rota un elemento",
+  "main": "rotate.js",
+  "keywords": [
+    "Rotate",
+    "Javascript",
+    "Library"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
